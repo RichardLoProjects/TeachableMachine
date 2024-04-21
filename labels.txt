@@ -1,2 +1,2 @@
-0 Class 1
-1 Class 2
+0 SIG_Ball
+1 Teddy_Bear
